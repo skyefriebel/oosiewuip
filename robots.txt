@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aithoofai.d4ng.net/sitemap.xml
